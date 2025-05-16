@@ -8,9 +8,7 @@ const nextConfig = {
   },
   images: {
     unoptimized: true,
-  },
-  // 重点是这里
-  output: 'export',
+  }
 }
 
 export default nextConfig
